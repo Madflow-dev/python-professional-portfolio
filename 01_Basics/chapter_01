@@ -2,3 +2,44 @@ print("Hola, mundo")
 print("Bienvenido al curso profesional de Python")
 print("Bienvenido al curso")
 print("profesional de Python.")
+-----------------------------------------------------------------------------------------------------------------------------------
+EJERCICIO NÚMERO 1:
+1. ¿Qué es programar?, explique con sus propias palabras.
+ - Es un proceso en el cuál creas mediante algoritmos una estructura según tus fines.
+2. Escribe un algoritmo para preparar chocolate caliente.
+ - Problema: Preparar chocolate caliente.
+ - Paso 1: Hervir leche a fuego medio.
+ - Paso 2: Añadir el chocolate.
+ - Paso 3: Revolver hasta integrar bien.
+ - Paso 4: Servir caliente.
+3. Investiga tres áreas distintas donde se utilice PYTHON y describa brevemente qué tipo de problemas resuelve en cada una.
+ - En el ámbito de desarrollo de videojuegos, PYTHON puede resolver problemas de lentitud en el diseño y prototipado.
+ - En Desarrollo web puede encargarse de problemas de lógica en el servidor, procesamiento de datos y creación de APIs.
+ - En el aspecto de automatizaciones, PYTHON optimiza procesos de intervención manual que generalmente usen reglas, reduciendo tiempo.
+4. Escribe un programa que muestre exactamente este texto: Bienvenido al curso profesional de Python.
+ - print("Bienvenido al curso profesional de Python.")
+5. Modifica el programa para que muestre dos líneas diferentes utilizando dos llamadas a print().
+ - print("Bienvenido al curso") ("profesional de Python.")
+------------------------------------------------------------------------------------------------------------------------------------
+PUNTAJES:
+1. 4/5
+2. 5/5
+3. 4.5/5
+4. 4/5
+5. 3.5/5
+------------------------------------------------------------------------------------------------------------------------------------
+RESOLUCIÓN:
+1. Programar es el proceso de diseñar y escribir una serie de instrucciones, llamadas algoritmos, para que una computadora resuelva un problema o realice una tarea de forma automática.
+2. - Verter leche en una olla.
+   - Calentar la leche hasta que hierva.
+   - Agregar el chocolate.
+   - Revolver hasta que se derrita completamente.
+   - Servir caliente.
+3. herramientas internas, scripts, prototipos, inteligencia artificial de NPCs. (Desarrollo de videojuegos)
+4. Se escribe PYTHON, no PHYTON.
+5. Primer error de sintaxis. Recuerda que cada llamada a print() imprime o muestra una línea distinta.
+------------------------------------------------------------------------------------------------------------------------------------
+CONSEJOS:
+- Debes ser cuidadoso con tu código, cualquier pequeño detalle malpuesto conlleva a un error de sintaxis.
+- Genera el hábito de revisar tu código.
+------------------------------------------------------------------------------------------------------------------------------------
