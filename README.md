@@ -1,4 +1,5 @@
 # python-professional-portfolio
+SESIÓN 1:
 1. La computadora sigue instrucciones, no adivina. Si cometes un error, tienes que encontrar el mismo error y arreglarlo.
 2. Un algoritmo es un orden finito de pasos para resolver un problema en específico.
 3. ANTES DE ESCRIBIR CÓDIGO ES NECESARIO PENSAR EN UN ALGORITMO.
